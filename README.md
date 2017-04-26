@@ -1,6 +1,6 @@
 # npmdoc-yuidocjs
 
-#### api documentation for  [yuidocjs (v0.10.2)](https://github.com/yui/yuidoc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yuidocjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yuidocjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yuidocjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yuidocjs)
+#### basic api documentation for  [yuidocjs (v0.10.2)](https://github.com/yui/yuidoc#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-yuidocjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yuidocjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yuidocjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yuidocjs)
 
 #### YUIDoc, YUI's JavaScript Documentation engine.
 
